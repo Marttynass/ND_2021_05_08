@@ -1,0 +1,60 @@
+body {
+  background-color: #b1b4d3;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+div#mainh3 {
+  text-align: center;
+}
+
+p#shortbio {
+  margin-left: 70px;
+}
+
+div#imgportrait {
+  text-align: center;
+}
+
+p#pictext {
+  text-align: center;
+  margin-top: -5px;
+  background-color: #c0c0c0;
+}
+
+h3#secondh3 {
+  padding: 70px;
+  margin-bottom: -70px;
+}
+
+span#bioyear {
+  font-weight: bold;
+}
+
+ul#biolist {
+  padding: 90px;
+}
+
+div#biolist {
+  margin-left: 90px;
+}
+
+li {
+  margin-bottom: -13px;
+}
+
+div#readmore {
+  text-align: center;
+  margin-top: 40px;
+}
+
+div#writtenandcoded {
+    background-color: white;
+    font-style: italic;
+}
