@@ -1,0 +1,27 @@
+table,
+tr,
+td {
+  text-align: center;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  border-spacing: 0px;
+  border-width: 1px;
+  padding: 10px;
+}
+
+th {
+  background-color: wheat;
+  padding: 10px;
+}
+
+#maintd {
+  font-weight: bold;
+  background-color: wheat;
+  border-style: unset;
+  border-color: unset;
+}
+
+#special {
+  font-weight: bold;
+  background-color: yellow;
+}
